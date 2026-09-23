@@ -1,4 +1,4 @@
-# Contributing to DSECT Labs
+# Contributing to DSECT
 
 ## Workflow
 
