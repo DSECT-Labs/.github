@@ -1,29 +1,34 @@
-# DSECT Labs
+# DSECT
 
-**Developmental Systems, Engineering & Computing Technologies**
+**Developmental Systems, Engineering & Computing Technologies** · *Decompose. Then build.*
 
-Lab and software development for multi-agent systems, local-first AI infrastructure, and interactive software.
+An independent technology lab building systems, software and research that are local-first,
+measured, and owned.
 
-- Site: [dsect.dev](https://dsect.dev)
+- Site: [dsect.net](https://dsect.net)
 - Contact: [contact@dsect.net](mailto:contact@dsect.net)
 
-## Focus
+## Divisions
 
-- Multi-agent orchestration and local-first AI hubs
-- Developer tools and node-graph / IDE experiments
-- Games and interactive systems
-- Research prototypes that graduate into products
-
-## Organization layout
-
-| Area | Purpose |
+| division | focus |
 | --- | --- |
-| `.github` | Org profile, templates, community health |
-| Product repos | One repo per shippable system |
-| `*-infra` | Shared platform, CI, and ops |
+| **DSECT Systems** | hardware, home servers, networking, self-hosted infrastructure |
+| **DSECT Software** | products and developer tools: multi-agent hubs, node-graph / IDE experiments, interactive software |
+| **DSECT Labs** | research into multi-agent systems and local-first AI, published as studies and technical reports |
+
+## How this organization is laid out
+
+| repos | purpose |
+| --- | --- |
+| `.github` | org profile, community health files, issue and PR templates |
+| product repos | one repo per shippable system |
+| `template-*` | starters for new repos |
+| `*-infra` | shared platform, CI and ops |
+
+Work is private while it is being built and public by choice. Contributions follow
+[CONTRIBUTING.md](https://github.com/DSECT-Labs/.github/blob/main/CONTRIBUTING.md). Code is
+Apache-2.0 unless a repo says otherwise.
 
 ## Teams
 
-- **Quantum** — backend and frontend AI / software development
-
-Private work stays private. Public repos are the ones intended for the outside world.
+- **Quantum**: agents and humans building DSECT's software. Every contribution is signed by whoever made it.
