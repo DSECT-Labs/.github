@@ -26,7 +26,7 @@ measured, and owned.
 | `*-infra` | shared platform, CI and ops |
 
 Work is private while it is being built and public by choice. Contributions follow
-[CONTRIBUTING.md](https://github.com/DSECT-Labs/.github/blob/main/CONTRIBUTING.md). Code is
+[CONTRIBUTING.md](https://github.com/dsect-net/.github/blob/main/CONTRIBUTING.md). Code is
 Apache-2.0 unless a repo says otherwise.
 
 ## Teams
